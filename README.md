@@ -1,2 +1,2 @@
 # GithubJS
-Create project Github in full Javascript 
+Create project Github in full Javascript POO
